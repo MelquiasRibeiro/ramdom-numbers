@@ -1,5 +1,5 @@
 # Random-numbers
-:game_die: An android app made in kotlin to generate ramdom numbers from 0 to 10 :game_die:
+:game_die: An android app made in kotlin to generate random numbers from 0 to 10 :game_die:
 
 
 ## Telas:
